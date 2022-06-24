@@ -20,13 +20,13 @@ npm run dev
 
 ## Screenshots
 
-![screenshot1](../note-taker/public/images/Screenshot%202022-06-24%20at%2021.01.26.png)
+![screenshot1](./public/images/Screenshot%202022-06-24%20at%2021.01.26.png)
 
-![screenshot1](../note-taker/public/images/Screenshot%202022-06-24%20at%2021.01.34.png)
+![screenshot2](./public/images/Screenshot%202022-06-24%20at%2021.01.34.png)
 
-![screenshot1](../note-taker/public/images/Screenshot%202022-06-24%20at%2021.01.43.png)
+![screenshot3](./public/images/Screenshot%202022-06-24%20at%2021.01.43.png)
 
-![screenshot1](../note-taker/public/images/Screenshot%202022-06-24%20at%2021.01.48.png)
+![screenshot4](./public/images/Screenshot%202022-06-24%20at%2021.01.48.png)
 
 ## Video WalkThrough
 
