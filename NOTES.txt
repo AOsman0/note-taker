@@ -1,0 +1,18 @@
+View Routes
+- "/" -> render the landing page
+- "/notes" -> render the notes page
+
+Api Routes
+- GET /api/notes -> get all notes from file
+- DELETE /api/notes/:id -> delete note by id from file
+- POST /api/notes -> create a new note and add to file
+ 
+Steps to follow:
+
+1. Setup a basic server
+2. Setup routes (view routes for now)
+3. Setup controllers (view controllers)
+4. Run `npm run start` and navigate to home page and notes page
+5. Add get all notes feature for api
+6. Add create note feature for api
+7. Add delete note feature for api
