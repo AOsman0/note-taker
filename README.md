@@ -4,11 +4,7 @@ Modify starter code to create an application called Note Taker that can be used 
 
 # Heroku Deployed Link
 
-```
-
-[here](https://afternoon-spire-74191.herokuapp.com)
-
-```
+[heroku link] (https://afternoon-spire-74191.herokuapp.com)
 
 # Installation
 
